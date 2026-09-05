@@ -1,4 +1,4 @@
-def takeMarks(a):
+# def takeMarks(a):
 #     total = 0
 #     for i in range(a):
 #         b = int(input(f"marks of subject {i}: "))
